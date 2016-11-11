@@ -1,3 +1,5 @@
 strat git
 
-master change
+change git
+
+new branch feature1 
